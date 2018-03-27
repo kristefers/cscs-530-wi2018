@@ -24,7 +24,7 @@
 1. Michael Borsellino 
 2. Mana Heshmati 
 3. Harrison Smith 
-4. Kristefer Stojanovski 
+4.  
 
 &nbsp;
 
@@ -32,7 +32,7 @@
 
 1. Iris Rivera
 2. Ali Turfah 
-3. 
+3. Kristefer Stojanovski
 4. 
 
 &nbsp;
